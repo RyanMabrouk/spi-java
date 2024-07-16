@@ -1,0 +1,4 @@
+com/cevher/keycloak/Client.class
+com/cevher/keycloak/UserUtils.class
+com/cevher/keycloak/CustomEventListenerProviderFactory.class
+com/cevher/keycloak/CustomEventListenerProvider.class
